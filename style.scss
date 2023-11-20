@@ -149,6 +149,7 @@ body {
       font-weight: 400;
       line-height: normal;
     }
+    
   }
 
   &__footer {
@@ -182,6 +183,8 @@ body {
       font-style: normal;
       font-weight: 500;
       line-height: normal;
+      text-decoration: none;
+      margin-left: 2px;
     }
   }
 }
